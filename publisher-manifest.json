@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "39a3d7802d6ed0f2a05f1ea1",
+  "owner": "sftdtmr",
+  "repo": "page-0fa4aeb69d6a68decedb3cab",
+  "title": "免流(EASY)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0fa4aeb69d6a68decedb3cab",
+      "a": "免流(EASY)",
+      "b": "",
+      "entity": "免流(EASY)",
+      "brand": "免流(EASY)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0bdca80391900beea6717b27bebed008db51fcc3c32d06af35eb539efc8bf133",
+      "content": {
+        "keyword1": "免流(EASY)",
+        "keyword2": "",
+        "primary_entity": "免流(EASY)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "免流(EASY)官方网站提供稳定机场订阅与VPN加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与团队网络方案，配置流程清晰易上手。",
+          "AI_DESCRIPTION": "免流(EASY)官方网站提供稳定机场订阅与VPN加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与团队网络方案，配置流程清晰易上手。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#f3f4f6;color:#1f2937;font-size:16px;line-height:1.65;overflow-x:hidden}a{color:#6d28d9;text-decoration:none}header{background:#5b21b6;color:#fff;padding:14px 16px}.brand{font-weight:700;font-size:1.15rem}nav{margin-top:8px;display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#ede9fe;font-size:0.95rem}main{max-width:800px;margin:0 auto;padding:20px 16px 40px}h1{font-size:1.7rem;color:#4c1d95;margin:8px 0 16px;line-height:1.3}h2{font-size:1.28rem;color:#5b21b6;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.05rem;color:#4c1d95;margin:14px 0 8px}p,li{margin-bottom:10px;overflow-wrap:break-word}.lead{background:#fff;border-radius:8px;padding:16px;border:1px solid #e5e7eb;margin-bottom:8px}.plans{display:flex;flex-direction:column;gap:12px}.plan{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:16px}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff}.plan-name{font-weight:700;font-size:1.1rem}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-left:6px}.price{font-size:1.45rem;color:#6d28d9;font-weight:700;margin:6px 0}.annual{font-size:0.9rem;color:#6b7280}.plan ul,.scenes ul,.dl-box ul{padding-left:18px;margin-top:8px}.step-list{display:flex;flex-direction:column;gap:10px}.step{background:#fff;border-radius:8px;padding:14px 16px;border-left:4px solid #7c3aed}.step-num{font-weight:700;color:#6d28d9;margin-right:6px}.dl-box{background:#fff;padding:16px;border-radius:8px;border:1px solid #e5e7eb}details{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:10px 14px;margin-bottom:8px}summary{font-weight:600;color:#4c1d95}details p{margin-top:8px;color:#374151}footer{background:#e5e7eb;color:#4b5563;padding:20px 16px;font-size:0.88rem}footer .ft{max-width:800px;margin:0 auto}footer h2{font-size:1rem;color:#4b5563;border:none;margin:12px 0 6px}.links{display:flex;flex-wrap:wrap;gap:8px 12px}.ad{background:#fafafa;border:1px dashed #d1d5db;padding:10px;border-radius:6px;margin:10px 0}</style><header><div class=\"brand\">免流(EASY) 官方网站</div><nav><a href=\"#\">首页</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>免流(EASY) 机场订阅与VPN加速器官网</h1><section id=\"intro\"><h2>品牌简介</h2><div class=\"lead\"><p>免流(EASY)是面向个人与团队的官方机场与网络加速服务。我们提供可订阅的节点池、多平台客户端以及面向流媒体、游戏与跨境办公的加速能力，帮助用户以更清晰的步骤完成配置并稳定使用梯子网络。</p><p>作为免流(EASY)官方网站，本页集中展示套餐说明、配置流程、客户端下载指引与常见问题，便于用户在订阅后快速导入并连接。节点覆盖常规线路与 IPLC 专线，强调可用性与操作可读性。</p></div></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>以下为免流(EASY)当前公开套餐，可按月或按年订阅。年付可降低平均成本。流量为套餐周期内的极速流量额度。</p><div class=\"plans\"><div class=\"plan\"><h3 class=\"plan-name\">基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3 class=\"plan-name\">旗舰版 <span class=\"badge\">推荐</span></h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3 class=\"plan-name\">团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scenes\"><p>免流(EASY) VPN 与机场订阅可覆盖日常跨境访问与加速需求：</p><ul><li>跨境远程办公、邮件与会议协作，降低链路波动对沟通的影响。</li><li>学术检索、文献与公开课访问，配合稳定节点完成资料获取。</li><li>流媒体点播与直播，旗舰版强调全节点原生解锁能力。</li><li>主机与手游加速，借助 IPLC 专线优化延迟（以旗舰版与团队版为主）。</li><li>小团队统一出口、定制分流，由团队版提供更高设备数与专属支持。</li></ul></div></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>免流(EASY)强调纵向、可跟随的配置步骤。完成订阅后，按下列顺序操作即可连接加速器。</p><div class=\"step-list\"><div class=\"step\"><span class=\"step-num\">步骤 1</span>在官方网站选择套餐并完成订阅，进入用户中心查看机场订阅地址。</div><div class=\"step\"><span class=\"step-num\">步骤 2</span>复制订阅链接（Clash / Surge / 通用订阅等格式以用户中心显示为准）。</div><div class=\"step\"><span class=\"step-num\">步骤 3</span>前往本页客户端下载说明，安装与当前系统匹配的官方客户端。</div><div class=\"step\"><span class=\"step-num\">步骤 4</span>打开客户端，选择「从订阅导入」或「添加订阅」，粘贴链接并更新节点列表。</div><div class=\"step\"><span class=\"step-num\">步骤 5</span>按延迟或用途选择节点（普通线路或 IPLC），开启系统代理或 TUN 模式后即可使用网络加速。</div><div class=\"step\"><span class=\"step-num\">步骤 6</span>若无法连接，先检查订阅是否过期、本地时间是否准确，再通过工单反馈节点名称与客户端版本。</div></div><p>建议首次使用时先用基础浏览测试连通性，再开启流媒体或游戏加速规则。团队用户可由管理员统一下发订阅与分流策略。</p></section><section id=\"download\"><h2>客户端下载与官网下载指引</h2><div class=\"dl-box\"><p>免流(EASY)官方下载通道提供主流桌面与移动端客户端适配说明。请仅通过官方用户中心或本站指引获取安装包，勿使用来路不明的第三方改包。</p><ul><li>Windows：支持常见 Clash / sing-box 系图形客户端，导入订阅后选择系统代理。</li><li>macOS：可使用兼容订阅的桌面客户端，注意授予网络扩展权限。</li><li>Android：官方推荐支持订阅更新的客户端，开启分应用代理可节省流量。</li><li>iOS：通过外部商店或企业分发获取兼容客户端，导入后开启 VPN 配置。</li><li>Linux / 路由器：可使用命令行或 OpenWrt 插件消费同一机场订阅。</li></ul><p>具体安装包版本以登录后的官方下载页为准。本页提供流程说明，不托管可执行文件。</p><p><a href=\"#guide\">返回配置流程</a> · <a href=\"#faq\">查看导入常见问题</a></p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>免流(EASY)是什么，和普通加速器有何不同？</summary><p>免流(EASY)是提供机场订阅与 VPN 梯子能力的官方服务，重点在可管理的节点池、多端客户端以及可跟随的配置流程。用户通过订阅获取节点，而不是单一不可更新的配置文件。</p></details><details><summary>如何完成客户端下载并导入机场订阅？</summary><p>先在官网完成套餐订阅，于用户中心复制订阅链接；再按本页客户端下载说明安装对应系统软件，在客户端内选择从 URL 更新订阅。详细顺序见配置流程步骤。</p></details><details><summary>各套餐流量、设备数和线路有什么区别？</summary><p>基础版每月 100GB、3 台设备、普通线路与基础流媒体；旗舰版 300GB、5 台设备、全节点原生流媒体与 IPLC 游戏优化；团队版 1000GB、20 台设备，并含 VIP 节点与定制路由。年付价格见套餐区。</p></details><details><summary>支持哪些使用场景，能否解锁流媒体和游戏加速？</summary><p>适用于跨境办公、学习访问、流媒体和游戏。基础版覆盖基础流媒体；旗舰版强调全节点原生解锁与 IPLC 游戏加速；团队版适合多人同时在线与企业分流。实际效果与节点及平台策略有关。</p></details><details><summary>连接失败或速度不理想时如何处理？</summary><p>请确认订阅在有效期内、设备数量未超限、系统时间正确，并尝试切换节点或更新订阅。旗舰与团队用户可走优先工单。本站不承诺固定延迟数值，体验因当地网络而异。</p></details><details><summary>是否提供官方身份核验与售后渠道？</summary><p>本页为免流(EASY)官方网站信息入口，套餐、配置与下载说明以用户中心实时显示为准。售后通过站内工单进行，团队版另有专属客户经理。请认准官方渠道，避免钓鱼站点。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"ft\"><p>免流(EASY)官方网站 · 机场订阅与网络加速服务 · 请通过正规渠道办理订阅与客户端下载</p><div class=\"ad\">广告位：合作网络工具与跨境办公配件信息展示（文字链） · <a href=\"#\">了解合作</a></div><h2>友情链接</h2><div class=\"links\"><a href=\"#\">节点状态公告</a><a href=\"#\">客户端兼容说明</a><a href=\"#\">分流规则入门</a><a href=\"#\">跨境协作手册</a></div><h2>站点地图</h2><div class=\"links\"><a href=\"#\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐订阅</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">官网下载</a><a href=\"#faq\">常见问题</a><a href=\"#\">XML Sitemap</a></div><p>© 免流(EASY) 官方网站 保留所有权利。本页面用于介绍机场订阅、VPN 梯子网络加速与客户端下载指引。</p></div></footer>",
+          "hash": "f3c08b1c776505873b9ba56b5532af5a4d83fe13091db3a22792612e1ab37bee",
+          "seo": {
+            "title": "免流(EASY)官网 - 机场订阅 VPN梯子网络加速与客户端下载",
+            "keywords": "免流(EASY),免流EASY,免流(EASY)机场,免流(EASY) VPN,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官网下载",
+            "description": "免流(EASY)官方网站提供稳定机场订阅与VPN加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与团队网络方案，配置流程清晰易上手。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "karulu.cn",
+    "host": "p-56c50e0b1a.karulu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "jinanshengbo.cn",
+      "url": "https://jinanshengbo.cn/",
+      "label": "免流(EASY)",
+      "apex": "jinanshengbo.cn",
+      "kind": null,
+      "identity": "ktfyum/page-542ee4a07b0bb3fddd406395"
+    },
+    {
+      "host": "neciffq.cn",
+      "url": "https://neciffq.cn/",
+      "label": "免流(EASY)",
+      "apex": "neciffq.cn",
+      "kind": null,
+      "identity": "pbgkqv/page-54c2113feaf303aff36778df"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "27e17b5528562e860bdcf2590f8146d968be1b0ebfce0ca2e1be48462f5ab69e",
+    "sitemap.xml": "cd560c6507f6021d0b0fd0e26dde0784eaedf303e68ee84e189b44a88ad3a8c2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c6e965f15cb604981dfc5cd2b0d30cf05929853d949a7027d9e3be29ad58049a",
+    "robots.txt": "37d37ecce28c30fa2e485e813451155bf5d3ad28e2a516c87576fc520dbb2ea6",
+    "9fe330f89f4c93a1cca3b0fb5b372cd5.txt": "692b20f7f480aef074608ae6ddf8c2280d257b2ef22d701f8df849a7928ac6d0"
+  },
+  "revision": "52d34a8a41a763ee74f833fdb25027433376a818e7dbd1c0750a8e69b477bb46"
+}
